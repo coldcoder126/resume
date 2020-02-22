@@ -2,9 +2,9 @@
 # 杜翔 
 <img src="https://github.com/coldcoder126/git_images/blob/master/duxiang.JPG" width="108" height="152"  align="right">
 
->   186-3719-0071 \| <coldcoder@126.com> \| https://github.com/coldcoder126
+>   186-3719-0071 \| <coldcoder@126.com>
 
->   2019本科毕业 \| 求职意向：java实习生 \| 意向城市：北京
+>   2019本科毕业  \| 意向城市：北京
 
 ### 个人总结    
 -------
